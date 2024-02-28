@@ -1,1 +1,1 @@
-public/hero-mobile.png
+
